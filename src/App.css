@@ -1,0 +1,18 @@
+ul {
+  width: 150;
+  margin: 20 auto;
+  padding: 15px;
+
+}
+
+li {
+  width: 150;
+  list-style: none;
+  font-weight: 400;
+}
+
+form {
+  display:flex;
+  width: 350px;
+
+}
